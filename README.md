@@ -55,9 +55,14 @@ END
 
 #### Output Table
 
+#### Output Table
+
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000-05             |      2004-1B             |
+|     2001-12             |      2005-27             |
+|     2002-16             |                          |
+|     2003-15             |                          |
 
 #### Manual Calculations
 
@@ -110,9 +115,14 @@ END
 
 #### Output Table
 
+|#### Output Table
+
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000-99             |      2004-78             |
+|     2001-75            |      2005-40             |
+|     2002-21             |                          |
+|     2003-35             |                          |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-11-11 at 19 59 47_91628f93](https://github.com/user-attachments/assets/4c127b5c-a754-405b-a6c6-da8d7ad3920c)
@@ -162,9 +172,14 @@ END
 
 #### Output Table
 
+#### Output Table
+
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000-02             |      2004-22             |
+|     2001-00             |      2005-00             |
+|     2002-11             |                          |
+|     2003-00             |                          |
 
 #### Manual Calculations
 ![WhatsApp Image 2025-11-11 at 20 05 06_91d1f8a6](https://github.com/user-attachments/assets/7245d10d-b8e1-482a-8eef-c3ad2d0a4c64)
@@ -211,9 +226,14 @@ END
 
 #### Output Table
 
+#### Output Table
+
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     2000-88             |      2004-04             |
+|     2001-88             |      2005-00             |
+|     2002-22             |                          |
+|     2003-22             |                          |
 
 #### Manual Calculations
 
