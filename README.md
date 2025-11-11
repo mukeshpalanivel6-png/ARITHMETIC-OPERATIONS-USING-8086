@@ -62,7 +62,8 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
-![WhatsApp Image 2025-09-22 at 13 11 03_5de412a7](https://github.com/user-attachments/assets/800100d3-0ef0-4912-b86b-65b15f59c827)
+![WhatsApp Image 2025-11-11 at 19 59 44_d930639e](https://github.com/user-attachments/assets/7c93f4f2-e0d9-428d-ad8d-47e15924ed25)
+
 
 ---
 
@@ -114,10 +115,11 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![WhatsApp Image 2025-11-11 at 19 59 47_91628f93](https://github.com/user-attachments/assets/4c127b5c-a754-405b-a6c6-da8d7ad3920c)
 
 (Add your calculation here)
 
----![WhatsApp Image 2025-09-22 at 13 09 05_a2e2feaa](https://github.com/user-attachments/assets/e8fa2507-2700-4d3d-a848-02c46593cf7c)
+
 
 
 
@@ -165,14 +167,16 @@ END
 |                         |                          |
 
 #### Manual Calculations
+![WhatsApp Image 2025-11-11 at 20 05 06_91d1f8a6](https://github.com/user-attachments/assets/7245d10d-b8e1-482a-8eef-c3ad2d0a4c64)
 
 (Add your calculation here)
 
 ---
-![WhatsApp Image 2025-09-22 at 13 40 49_4e013265](https://github.com/user-attachments/assets/9e9bec2b-8c26-4b8c-ac26-bd87c313aa72)
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 13 42 15_6c9e109d](https://github.com/user-attachments/assets/c4123217-471e-4a03-a4cb-2c3e850fe51f)
+
+![WhatsApp Image 2025-10-29 at 16 31 18_24c71f18](https://github.com/user-attachments/assets/57110235-d14c-4d39-a2b4-1062ed1bfb90)
 
 ## 4. DIVISION
 
@@ -213,13 +217,15 @@ END
 
 #### Manual Calculations
 
+![WhatsApp Image 2025-11-11 at 20 10 23_7754b22a](https://github.com/user-attachments/assets/1a4b5c0b-3f5f-4874-b059-104d4a342d46)
+
 (Add your calculation here)
-![WhatsApp Image 2025-09-22 at 13 42 39_f4ce037b](https://github.com/user-attachments/assets/93a5aeb5-a574-4caa-b6fa-0707e60b4ccd)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-![WhatsApp Image 2025-09-22 at 13 43 13_fc3e896a](https://github.com/user-attachments/assets/b50dba4b-a90f-460e-8822-ffc29cc84c9b)
+![WhatsApp Image 2025-10-29 at 16 53 02_daec1455](https://github.com/user-attachments/assets/536bd11f-1749-40a7-9411-db67e5dd8164)
 
 
 ## RESULT
